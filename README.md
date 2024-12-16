@@ -27,7 +27,7 @@ A robust courier management system designed for efficient tracking, scheduling, 
 1. Clone the repository:
    ```bash
   git clone https://github.com/TheGeekScript/courier-management-system.git
-   cd courier-management-system
+  cd courier-management-system
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thegeekscript&icon=0&color=12)](https://visitcount.itsvg.in)
